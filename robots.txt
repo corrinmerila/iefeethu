@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chuyohyait.inspirationforchange.co.uk/sitemap.xml
